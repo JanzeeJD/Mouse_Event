@@ -27,6 +27,8 @@ body {
 
 .mouse-events {
   display: flex;
+  gap: 20px;
+
 }
 
 .mouse-event {
