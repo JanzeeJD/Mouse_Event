@@ -23,6 +23,8 @@ body {
   width: auto; 
   margin-bottom: 25px; 
   border-radius: 50%;
+  transition: transform 0.3s ease;
+
 }
 
 .mouse-events {
