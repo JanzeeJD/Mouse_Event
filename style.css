@@ -27,6 +27,11 @@ body {
 
 }
 
+.img:hover {
+  transform: scale(1.1);
+}
+
+
 .mouse-events {
   display: flex;
   gap: 20px;
