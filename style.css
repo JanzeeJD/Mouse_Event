@@ -52,6 +52,7 @@ body {
   flex-direction: column;
   border-radius: 8px;
   outline: none;
+  cursor: pointer;
 
 }
 
