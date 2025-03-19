@@ -73,4 +73,9 @@ body {
   .container {
     flex-direction: column;
   }
+  .img {
+    height: 80px;
+  }
 }
+
+
