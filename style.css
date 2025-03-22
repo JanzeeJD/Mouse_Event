@@ -56,6 +56,11 @@ body {
 
 }
 
+.mouse-event:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+
 .mouse-event h4 {
   position: absolute;
   top: -50px;
