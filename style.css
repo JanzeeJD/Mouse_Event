@@ -7,6 +7,8 @@ body {
   background-color: rgb(8, 55, 8);
   color: azure;
   font-family: cursive;
+  text-shadow: 1px 1px 2px black;
+
 }
 
 .container {
